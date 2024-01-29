@@ -1,0 +1,22 @@
+#principal {
+    background: orange;
+    display: flex;
+    justify-content: center;
+    height: 35px;
+  }
+  
+  #secundario {
+    background-color: orange;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  button {
+    background-color: orange;
+    border: none;
+    color: white;
+  }
+  
+  button:hover {
+    background-color:#CC6600;
+  }
