@@ -1,0 +1,24 @@
+div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+div > button {
+  height: 50px;
+  width: 50px;
+  background-color: #404040;
+  color: white;
+  border: none;
+  margin-top: auto;
+  margin-bottom: auto;
+
+}
+
+#backward {
+  align-self: flex-start;
+}
+
+#forward {
+  align-self: flex-end;
+}

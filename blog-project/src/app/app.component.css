@@ -1,0 +1,14 @@
+#content {
+    display: flex;
+    flex-direction: row;
+}
+
+#news {
+    width: 50%;
+    background-color: green;
+}
+
+#mais_acessados {
+    background-color: white;
+    width: 50%;
+}
